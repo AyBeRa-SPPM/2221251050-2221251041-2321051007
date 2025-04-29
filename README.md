@@ -1,1 +1,3 @@
-
+Aylin Yılmaz 2221251041
+Beyza Nur KÜPDEL 2221251050
+Ravza Nur KAĞIT 2321051007
