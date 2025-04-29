@@ -1,1 +1,1 @@
-class B {}121
+class B {}
