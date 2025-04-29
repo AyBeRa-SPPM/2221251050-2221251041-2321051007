@@ -1,2 +1,2 @@
 solving the desing issue
-#3 resolves
+fixes #3
