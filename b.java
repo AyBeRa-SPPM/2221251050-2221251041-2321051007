@@ -1,1 +1,1 @@
-BBBB
+class B {}
